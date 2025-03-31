@@ -1,3 +1,0 @@
-# Nmap 7.95 scan initiated Mon Mar 31 10:28:01 2025 as: /usr/lib/nmap/nmap --privileged -A -F -oN 10.10.114.244
-WARNING: No targets were specified, so 0 hosts scanned.
-# Nmap done at Mon Mar 31 10:28:02 2025 -- 0 IP addresses (0 hosts up) scanned in 0.63 seconds
