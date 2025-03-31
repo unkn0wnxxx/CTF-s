@@ -29,9 +29,9 @@ Step 20: Checked "id" if I am root --> I am root. "cd /root" and used "ls". Disc
 
 ## Key Learnings
 
-### Learned about OSINT Techniques, Google Dorking Techniques & Social Media Search Methods
-### Learned about Pastebin (didn't know what it was before, lol)
-### Learned new hash cracker pages for example crackstation
-### Learned about Metasploit & auxilary scanners
-### Learned about netcat & general linux navigations --> directorys like /opt
-### Learned about listeners, reverse shell script generators.
+### - Learned about OSINT Techniques, Google Dorking Techniques & Social Media Search Methods
+### - Learned about Pastebin (didn't know what it was before, lol)
+### - Learned new hash cracker pages for example crackstation
+### - Learned about Metasploit & auxilary scanners
+### - Learned about netcat & general linux navigations --> directorys like /opt
+### - Learned about listeners, reverse shell script generators.
