@@ -14,4 +14,8 @@
 - Step 11: made "sudo /usr/bin/fail2ban-client set sshd banip 127.0.0.1" to ban an ip address --> prompted out "1", so it was successful.
 - Step 12: navigated to /tmp directory. made "ls" and found root.txt -> cat root.txt and finished it.
 
+## Key Learnings
 
+- Further Improved CVE Researching --> Found out that I can also look actively for
+CVE's y using "search magnus" or "search cve:2023-1234"
+- Further strengthened my linux cli knowledge, Learned about the command sudo -l, systemcdl. 
